@@ -1,0 +1,7 @@
+{
+	"name": "@s21toolkit/biome",
+	"description": "Base biome configuration for s21toolkit projects",
+	"devDependencies": {
+		"@biomejs/biome": "^1.5.3"
+	}
+}

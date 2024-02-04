@@ -1,0 +1,12 @@
+{
+	"name": "@s21toolkit/tsconfig",
+	"description": "Base TypeScript configuration for s21toolkit projects",
+	"dependencies": {
+		"@tsconfig/bun": "^1.0.1",
+		"@tsconfig/strictest": "^2.0.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.5.3",
+		"@s21toolkit/biome": "workspace:*"
+	}
+}
